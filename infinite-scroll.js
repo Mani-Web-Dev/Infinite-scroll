@@ -7,7 +7,7 @@ let photosArray = [];
 
 let numOfImages = 5;
 
-const apiUrl = `${document.location.origin}/InfiniteScroll/photosData.json`;
+const apiUrl = `https://mani-web-dev.github.io/Infinite-scroll/photosData.json`;
 
 console.log(apiUrl);
 
